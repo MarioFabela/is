@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "lucide-react": "^1.17.0",
+    "react-datepicker": "^9.1.0",
+    "react-router-dom": "^7.15.1"
+  }
+}
